@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>受講を確認するには on DXTTI | e-learning</title>
+    <link>https://shiih.github.io/ttielearn/follow_up/</link>
+    <description>Recent content in 受講を確認するには on DXTTI | e-learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 06 Apr 2020 03:57:08 +0900</lastBuildDate>
+    
+	<atom:link href="https://shiih.github.io/ttielearn/follow_up/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moodleで小テスト</title>
+      <link>https://shiih.github.io/ttielearn/follow_up/moodle1/</link>
+      <pubDate>Mon, 06 Apr 2020 03:57:08 +0900</pubDate>
+      
+      <guid>https://shiih.github.io/ttielearn/follow_up/moodle1/</guid>
+      <description>各回について学修をフォローすることが重要です．
+このページではMoodleでの小テスト機能を紹介する予定． （現在準備中）</description>
+    </item>
+    
+  </channel>
+</rss>

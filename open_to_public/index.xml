@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教材を公開するには on DXTTI | e-learning</title>
+    <link>https://shiih.github.io/ttielearn/open_to_public/</link>
+    <description>Recent content in 教材を公開するには on DXTTI | e-learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 06 Apr 2020 03:57:08 +0900</lastBuildDate>
+    
+	<atom:link href="https://shiih.github.io/ttielearn/open_to_public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>１．双方向型の板書</title>
+      <link>https://shiih.github.io/ttielearn/open_to_public/zoom_bb_live/</link>
+      <pubDate>Mon, 06 Apr 2020 03:57:08 +0900</pubDate>
+      
+      <guid>https://shiih.github.io/ttielearn/open_to_public/zoom_bb_live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>２：双方向型のスライド</title>
+      <link>https://shiih.github.io/ttielearn/open_to_public/zoom_slide_live/</link>
+      <pubDate>Mon, 06 Apr 2020 03:57:08 +0900</pubDate>
+      
+      <guid>https://shiih.github.io/ttielearn/open_to_public/zoom_slide_live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>３：オンデマンド型の板書</title>
+      <link>https://shiih.github.io/ttielearn/open_to_public/zoom_bb_rec/</link>
+      <pubDate>Mon, 06 Apr 2020 03:57:08 +0900</pubDate>
+      
+      <guid>https://shiih.github.io/ttielearn/open_to_public/zoom_bb_rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>４：オンデマンド型のスライド</title>
+      <link>https://shiih.github.io/ttielearn/open_to_public/zoom_slide_rec/</link>
+      <pubDate>Mon, 06 Apr 2020 03:57:08 +0900</pubDate>
+      
+      <guid>https://shiih.github.io/ttielearn/open_to_public/zoom_slide_rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>５．オンデマンド向け音声</title>
+      <link>https://shiih.github.io/ttielearn/open_to_public/voice_rec/</link>
+      <pubDate>Mon, 06 Apr 2020 03:57:08 +0900</pubDate>
+      
+      <guid>https://shiih.github.io/ttielearn/open_to_public/voice_rec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
